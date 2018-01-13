@@ -21,6 +21,7 @@
     "babel-cli": "^6.26.0",
     "babel-preset-env": "^1.6.1",
     "bluebird": "^3.5.1",
+    "markdown-it": "^8.4.0",
     "mongodb": "^3.0.1",
     "mongoose": "^4.13.9",
     "nodemon": "^1.14.10"
